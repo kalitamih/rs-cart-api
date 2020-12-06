@@ -1,0 +1,16 @@
+ 
+node_modules*
+
+dist*
+
+test*
+
+README.md
+
+.elasticbeanstalk*
+
+.prettierrc
+
+.eslintrc.js
+
+.gitignore
